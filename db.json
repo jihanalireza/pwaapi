@@ -1,0 +1,24 @@
+{
+ "products":[
+ {"id":1,"name":"Heron, giant","category":"Red"},
+{"id":2,"name":"Plover, three-banded","category":"Violet"},
+{"id":3,"name":"Red howler monkey","category":"Teal"},
+{"id":4,"name":"Galapagos mockingbird","category":"Teal"},
+{"id":5,"name":"Rufous tree pie","category":"Green"},
+{"id":6,"name":"Otter, giant","category":"Aquamarine"},
+{"id":7,"name":"Swamp deer","category":"Teal"},
+{"id":8,"name":"Boa, mexican","category":"Crimson"},
+{"id":9,"name":"Fox, crab-eating","category":"Turquoise"},
+{"id":10,"name":"Jaguar","category":"Turquoise"},
+{"id":11,"name":"Kudu, greater","category":"Crimson"},
+{"id":12,"name":"Magnificent frigate bird","category":"Fuscia"},
+{"id":13,"name":"Wallaby, whip-tailed","category":"Mauv"},
+{"id":14,"name":"American woodcock","category":"Indigo"},
+{"id":15,"name":"Stanley crane","category":"Blue"},
+{"id":16,"name":"Squirrel, arctic ground","category":"Teal"},
+{"id":17,"name":"Springbuck","category":"Aquamarine"},
+{"id":18,"name":"Black-cheeked waxbill","category":"Maroon"},
+{"id":19,"name":"Small-spotted genet","category":"Turquoise"},
+{"id":20,"name":"Ring-tailed possum","category":"Pink"}
+]
+}
